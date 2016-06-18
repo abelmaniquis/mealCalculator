@@ -1,0 +1,11 @@
+{
+  "name": "meal_calculator",
+  "version": "1.0.0",
+  "description": "Create Diner Objects that represent a single diner.",
+  "main": "mealCalc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
